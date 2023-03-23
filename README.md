@@ -12,7 +12,7 @@ Para instalar a API, siga as instruções abaixo:
 
 ## Como usar
 
-Para executar a API, abra o terminal na pasta raiz do projeto e execute o comando `java -jar target/nome-do-arquivo.jar`. Em seguida, utilize um cliente HTTP para enviar requisições à API.
+Para executar a API, abra o terminal na pasta raiz do projeto e execute o comando `java -jar target/parking-control-0.0.1-SNAPSHOT.jar`. Em seguida, utilize um cliente HTTP para enviar requisições à API.
 
 ## Funcionalidades
 
